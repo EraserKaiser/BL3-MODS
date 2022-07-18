@@ -9157,6 +9157,20 @@ SparkEarlyLevelPatchEntry,(1,1,0,MatchAll),/Game/PatchDLC/Event2/GameData/SpawnD
 
 
 
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 ###
 ### Name: StandAlone Third Person
 ### Author: screen names
@@ -9195,6 +9209,9 @@ SparkPatchEntry,(1,1,0,),/Game/GameData/Camera/CameraMode_ThirdPerson.CameraMode
 
 
 
+
+
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9332,3 +9349,8 @@ SparkCharacterLoadedEntry,(1,1,0,BPChar_Lorelei_IXO),/Ixora2/NonPlayerCharacters
 SparkCharacterLoadedEntry,(1,1,0,BPChar_Lorelei_IXO),/Ixora2/NonPlayerCharacters/Lorelei/_Design/Character/BPChar_Lorelei_IXO.Default__BPChar_Lorelei_IXO_C:CharMoveComp,MaxWalkSpeedInjured,0,,(Value=400,BaseValue=400)
 SparkCharacterLoadedEntry,(1,1,0,BPChar_Lorelei_IXO),/Ixora2/NonPlayerCharacters/Lorelei/_Design/Character/BPChar_Lorelei_IXO.Default__BPChar_Lorelei_IXO_C:CharMoveComp,MaxLadderAscendSpeed,0,,(Value=400,BaseValue=400)
 SparkCharacterLoadedEntry,(1,1,0,BPChar_Lorelei_IXO),/Ixora2/NonPlayerCharacters/Lorelei/_Design/Character/BPChar_Lorelei_IXO.Default__BPChar_Lorelei_IXO_C:CharMoveComp,MaxLadderDescendSpeed,0,,(Value=320,BaseValue=320)
+
+
+
+
+
