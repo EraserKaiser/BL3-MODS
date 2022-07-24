@@ -2770,7 +2770,7 @@ SparkPatchEntry(1,2,0,),/Game/PlayerCharacters/Operative/DigiClone/_Design/Chara
 
 
 # Increase Shoulder Cannon cooldown
-SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_DLC/Ixora/Tables/Table_DLCSkillTreeActionSkillData.Table_DLCSkillTreeActionSkillData,ShoulderMountedCannon,Cooldown_20_735A4D0A498632382644F385DC1382EB,0,,6
+SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_DLC/Ixora/Tables/Table_DLCSkillTreeActionSkillData.Table_DLCSkillTreeActionSkillData,ShoulderMountedCannon,Cooldown_20_735A4D0A498632382644F385DC1382EB,0,,10
 
 # Increase Shoulder Cannon damage
 SparkPatchEntry,(1,2,0,),/Game/PlayerCharacters/_Shared/_DLC/Ixora/Tables/Table_DLCSkillTreeActionSkillData.Table_DLCSkillTreeActionSkillData,ShoulderMountedCannon,DamageScalar_18_37A706AC4199ADD1D3E4AD920734B5F0,0,,6.5
