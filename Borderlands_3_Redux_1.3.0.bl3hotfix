@@ -11724,10 +11724,10 @@ SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/PatchDLC/BloodyHarvest/InteractiveOb
 ###
 
 # Claptrap
-SparkCharacterLoadedEntry,(1,1,0,BpChar_Claptrap),/Game/NonPlayerCharacters/Claptrap/_Design/Character/BpChar_Claptrap.Default__BpChar_Claptrap_C,OakCharacterMovement.Object..MaxWalkSpeed,0,,(Value=840.0,BaseValue=840.0)
+SparkCharacterLoadedEntry,(1,1,0,BpChar_Claptrap),/Game/NonPlayerCharacters/Claptrap/_Design/Character/BpChar_Claptrap.Default__BpChar_Claptrap_C,OakCharacterMovement.Object..MaxWalkSpeed,0,,(Value=1680.0,BaseValue=1680.0)
 
 # Lilith
-SparkCharacterLoadedEntry,(1,1,0,BPChar_Lilith),/Game/NonPlayerCharacters/Lilith/_Design/Character/BPChar_Lilith.Default__BPChar_Lilith_C,OakCharacterMovement.Object..MaxWalkSpeed,0,,(Value=840.0,BaseValue=840.0)
+SparkCharacterLoadedEntry,(1,1,0,BPChar_Lilith),/Game/NonPlayerCharacters/Lilith/_Design/Character/BPChar_Lilith.Default__BPChar_Lilith_C,OakCharacterMovement.Object..MaxWalkSpeed,0,,(Value=1680.0,BaseValue=1680.0)
 SparkCharacterLoadedEntry,(1,1,0,BPChar_Lilith),/Game/NonPlayerCharacters/Lilith/_Design/Character/BPChar_Lilith.Default__BPChar_Lilith_C,OakCharacterMovement.Object..NavSlowdownOptions.bSlowdownNearGoal,0,,False
 SparkCharacterLoadedEntry,(1,1,0,BPChar_Lilith),/Game/NonPlayerCharacters/Lilith/_Design/Character/BPChar_Lilith.Default__BPChar_Lilith_C,OakCharacterMovement.Object..NavSlowdownOptions.SlowdownSpeed.Value,0,,1
 
